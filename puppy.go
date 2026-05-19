@@ -14,7 +14,10 @@ func Barks() string {
 	return "woofs woof woo"
 }
 
-func main() {
-	fmt.Println(dog.WhenGrownUp(Bark()))
+func BigBark(){
+fmt.Println(dog.WhenGrownUp(Bark()))
+}
+func BigBarks() {
+	
 	fmt.Println(dog.WhenGrownUp(Barks()))
 }
