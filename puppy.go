@@ -21,3 +21,8 @@ func BigBarks() {
 	
 	fmt.Println(dog.WhenGrownUp(Barks()))
 }
+
+
+func Fromv1(){
+fmt.Println("From v.1.0.0")
+}
