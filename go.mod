@@ -1,4 +1,4 @@
-module github.com/HKB-code/puppy
+module github.com/HKB-code/puppy/v2
 
 go 1.24.2
 
